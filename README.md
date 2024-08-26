@@ -1,5 +1,5 @@
 # M3-JAVA-S1
-# Taller: Sistema Bancario para Manejo de Transacciones 
+# Taller: Sistema Bancario para Manejo de Cuenta Bancaria. 
 > **Larry M. Ramírez - Coach Técnico**
 ## Objetivo.
 Los asistentes deben crear un programa en Java que permita a un usuario ingresar su nombre, número de cuenta, saldo inicial y luego registrar una serie de transacciones (depósitos y retiros). El programa debe calcular y mostrar el saldo final del cliente.
