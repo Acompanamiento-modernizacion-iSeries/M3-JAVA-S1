@@ -83,6 +83,8 @@ public class SimuladorCuentaBancaria {
             }
         }
         System.out.println("Tú Saldo final es:  $"+ saldo);
+        // Cerrar el scanner al finalizar
+        sacanner.close();
     }
 }
 
